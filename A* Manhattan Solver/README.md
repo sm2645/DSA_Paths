@@ -100,5 +100,3 @@ gcc -o astar_solver main.c
 
 ---
 
-# Quick Repo Tagline
-> Efficient A\* solver for the (k²−1) sliding puzzle, based on Manhattan distance heuristic.
