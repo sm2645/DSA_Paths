@@ -97,11 +97,6 @@ gcc -o astar_solver main.c
 
 ---
 
-## Future Improvements
-
-- Implement support for alternative heuristics (e.g., Hamming Distance)
-- Add visualization tools to show solution steps
-- Optimize memory usage for very large board sizes
 
 ---
 
